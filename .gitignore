@@ -1,0 +1,20 @@
+# This is a comment
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+# Uncomment this line if you want to ignore the user-specific settings
+# [Uu]serSettings/
+# Uncomment this line if you want to ignore the Visual Studio project files
+*.sln
+*.csproj
+*.userprefs
+# Uncomment this line if you want to ignore the JetBrains Rider project files
+.idea/
+# Uncomment this line if you want to ignore the Visual Studio Code project files
+.vscode/
+# Uncomment this line if you want to ignore the Unity Collaborate files
+# .collab/

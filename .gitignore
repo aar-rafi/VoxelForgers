@@ -7,7 +7,7 @@
 [Ll]ogs/
 [Mm]emoryCaptures/
 # Uncomment this line if you want to ignore the user-specific settings
-# [Uu]serSettings/
+[Uu]serSettings/
 # Uncomment this line if you want to ignore the Visual Studio project files
 *.sln
 *.csproj
